@@ -1,0 +1,20 @@
+{
+  "name": "smart-complaints",
+  "version": "1.0.0",
+  "description": "A smart complaints management system inside a campus",
+  "homepage": "https://github.com/anurag-algo/smart-campus-complaints#readme",
+  "bugs": {
+    "url": "https://github.com/anurag-algo/smart-campus-complaints/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anurag-algo/smart-campus-complaints.git"
+  },
+  "license": "ISC",
+  "author": "Anurag Prajapati",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
